@@ -88,6 +88,8 @@ stdevs = column_stdevs(dataset, means)
 standardize_dataset(dataset, means, stdevs)
 print(dataset[0])
 
+print('Test')
+
 
 # filename = 'pima-indians-diabetes.csv'
 # iris_filename = 'iris.csv'
